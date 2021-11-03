@@ -8,6 +8,7 @@ namespace lab1
         {
             Console.WriteLine("Step one");
             Console.WriteLine("Step two");
+            Console.WriteLine("Step three");
         }
     }
 }
